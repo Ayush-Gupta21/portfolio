@@ -118,7 +118,7 @@ const Home = () => {
                                 to="contact"
                                 spy={true}
                                 smooth={true}
-                                offset={-200}
+                                offset={-300}
                                 duration= {700}>CONTACT</Link>
                         </li>
 

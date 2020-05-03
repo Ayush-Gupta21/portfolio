@@ -288,7 +288,7 @@
         font-size: 12vw;
     }
     #typewriter{
-        font-size: 7vw;
+        font-size: 6.5vw;
     }
     #primarybutton{
         font-size: 3vw;
@@ -312,7 +312,15 @@
         letter-spacing: 0.4vw;
     }
     #imagecontainerportfolio{
-        margin-top: 30%;
+        margin-top: 20%;
+    }
+    #imagecontainerportfolio h1{
+        /* margin-left: 0%; */
+        text-align: center;
+    }
+    #portfoliocontainer{
+        padding-left: 0px;
+        padding-right: 0px;
     }
     #intro{
         font-size: 5vw;
@@ -322,8 +330,8 @@
         display: none;
     }
     .single-team{
-        width: 140%;
-        height: 115%;
+        width: 100%;
+        height: 140%;
     }
     .team-text h2{
         font-size: 5vw;
@@ -341,8 +349,7 @@
         font-size: 6vw;
     }
     #portfolioimages{
-        margin-bottom: 3%;
-        margin-top: 7%;
+        margin-bottom: 20%;
     }
     .services{
         padding-left: 0%;
@@ -376,57 +383,60 @@
     /* form */
     #formcontainer h1{
         margin-bottom: 1%;
-        font-size: 6vw;
+        font-size: 7vw;
+        margin-top: 5%;
     }
     #formcontainer h3{
-        font-size: 6vw;
+        font-size: 7vw;
         margin-left: 34%;
+        margin-top: 6%;
     }
     #formcontainer .text-center h3{
-        font-size: 6vw;
-        margin-left: 1.5%;
+        font-size: 7vw;
+        margin-left: 1.4%;
     }
     #formcontainer h5{
-        font-size: 4vw;
+        font-size: 6vw;
         margin-left: 13.5%;
     }
     #form{
-        padding-left: 15.5%;
+        padding-left: 11%;
     }
     #formcontainer p{
-        font-size: 3vw;
+        font-size: 4vw;
         margin-left: 18%;
+        margin-right: 0px;
     }
     #formborder{
         border-right: none;
     }
     #nameform{
-        width: 70.8vw;
+        width: 80vw;
         margin-right: 1vw;
         margin-bottom: 2%;
     }
     #emailform{
-        width: 70.8vw;
+        width: 80vw;
         margin-bottom: 2%;
     }
     #textarea{
-        width: 70.8vw;
+        width: 80vw;
         height: 200px;
     }
     #formbutton{
-        font-size: 3vw;
+        font-size: 3.5vw;
         margin-bottom: 3%;
     }
     #contacticon1{
-        width: 8vw;
+        width: 10vw;
         margin-right: 5%;
     }
     #contacticon2{
-        width: 8vw;
+        width: 10vw;
         margin-right: 5%;
     }
     #contacticon3{
-        width: 8vw;
+        width: 10vw;
     }
 
     #projects{
