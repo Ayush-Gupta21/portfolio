@@ -155,7 +155,7 @@ const Home = () => {
                     to="contact"
                     spy={true}
                     smooth={true}
-                    offset={0}
+                    offset={-150}
                     duration= {0} 
                     className="btn btn-primary" 
                     id="primarybutton">HIRE ME</Link>
