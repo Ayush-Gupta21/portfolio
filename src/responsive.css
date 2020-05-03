@@ -446,17 +446,17 @@
         font-size: 4vw;
     }
      #errormessage{
-        width: 70.5vw;
+        width: 80vw;
         padding: 5px;
         border-radius: 3px;
     }
     #successmessage{
-        width: 70.5vw;
+        width: 80vw;
         padding: 5px;
         border-radius: 3px;
     }
     #loadingmessage{
-        width: 70.5vw;
+        width: 80vw;
         padding: 5px;
         border-radius: 3px;
     }
