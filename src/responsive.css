@@ -1,0 +1,475 @@
+/* when row 6 becomes row 12 */
+@media only screen and (max-width: 991px){   
+    #hey{
+        padding-top: 17%;
+        font-size: 5vw;
+    }
+    #iamayush{
+        font-weight: 700;
+        font-size: 8vw;
+    }
+    #typewriter{
+        font-size: 4vw;
+    }
+    #primarybutton{
+        font-size: 1.5vw;
+    }
+    #secondarybutton{
+        font-size: 1.5vw;
+    }
+    #image2{
+        padding: 10% 15% 0% 15%;
+    }
+    #imageinabout{
+        padding: 0% 15% 15% 15%;
+    }
+    #letmeintroducemyself{
+        font-size: 6vw;
+        /* text-decoration: underline; */
+        letter-spacing: 0.4vw;
+    }
+    #intro{
+        font-size: 2.5vw;
+        letter-spacing: 0.1vw;
+    }
+    
+    #portfolioimages{
+        margin-bottom: 15%;
+    }
+    #visitgithub{
+        /* width: 10%; */
+        font-size: 4vw;
+        margin-left: 73%;
+        margin-right: 5%;
+    }
+    .team-text h2{
+        font-size: 4vw;
+    }
+    .team-text p{
+        font-size: 2vw;
+    }
+    .team-text{
+        width: 100%;
+    }
+    #visitsite{
+        font-size: 4vw;
+    }
+    .single-team{
+        width: 70%;
+        height: 145%;
+    }
+    #imagecontainerservice{
+        margin-bottom: 0%;
+        margin-top: 6%;
+        background-position: center;
+    }
+    #rowinservice{
+        max-width: 100%;
+        margin-top: 2%;
+        margin-bottom: 0%;
+    }
+    .services{
+        margin-top: 10%;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        text-align: center;
+    }
+    .services h3{
+        font-size: 2.2vw;
+    }
+    .services p{
+        font-size: 2vw;
+    }
+    /* form */
+    /* #formcontainer form{
+        padding-left: 2%;
+    } */
+    #formcontainer h1{
+        margin-bottom: 3%;
+        font-size: 4vw;
+    }
+    #formcontainer h3{
+        font-size: 4vw;
+        margin-left: 13.5%;
+    }
+    #formcontainer .text-center h3{
+        font-size: 3vw;
+        margin-left: 1.5%;
+    }
+    #formcontainer h5{
+        font-size: 2.5vw;
+        margin-left: 13.5%;
+    }
+    #formcontainer p{
+        font-size: 2vw;
+        margin-left: 16.5%;
+    }
+    #formborder{
+        border-right: none;
+    }
+    #nameform{
+        width: 31vw;
+        margin-right: 1vw;
+    }
+    #emailform{
+        width: 38.6vw;
+    }
+    #textarea{
+        width: 70.8vw;
+    }
+    #formbutton{
+        font-size: 2vw;
+        margin-bottom: 3%;
+    }
+    #contacticon1{
+        width: 5vw;
+        margin-right: 3%;
+    }
+    #contacticon2{
+        width: 5vw;
+        margin-right: 3%;
+    }
+    #contacticon3{
+        width: 5vw;
+    }
+    #errormessage{
+        width: 70.5vw;
+        padding: 5px;
+        border-radius: 3px;
+    }
+    #successmessage{
+        width: 70.5vw;
+        padding: 5px;
+        border-radius: 3px;
+    }
+    #loadingmessage{
+        width: 70.5vw;
+        padding: 5px;
+        border-radius: 3px;
+    }
+    #errormessage h4{
+        font-size: 3vw;
+        margin: 0;
+    }
+    #successmessage h4{
+        font-size: 3vw;
+        margin: 0;
+    }
+    #loadingmessage h4{
+        font-size: 3vw;
+        margin: 0;
+    }
+    #handicon{
+        margin-top: 50%;
+    }
+}
+@media only screen and (max-width: 768px){
+    #imagecontainerportfolio{
+        background: none;
+    }
+    #imagecontainerportfolio h1{
+        padding-left: 36%;
+        font-size: 6vw;
+    }
+    #imagecontainerportfolio p{
+        font-size: 2.5vw;
+    }
+    #projects{
+        text-align: center;
+        padding-bottom: 10vh;
+        margin-bottom: 0px;
+    }
+    #arrowinsideportfolio{
+        display: none;
+    }
+    /* #portfoliocontainer i{
+        font-size: 10vw;
+    } */
+    #scrollbelow{
+        display: none;
+    }
+    .single-team{
+        width: 90%;
+        height: 150%;
+    }
+    #portfolioimages{
+        margin-bottom: 20%;
+    }
+    /* .team-text h2{
+        font-size: 4vw;
+    }
+    .team-text p{
+        letter-spacing: 1px;
+        font-size: 1.5vw;
+    }
+    .single-team{
+        width: 100vh;
+        height: 35vw;
+    } */
+    #stackcontainer{
+        display: none;
+    }
+    
+    #servicecard1{
+        margin-top: 5%;
+        margin-left: 35%;
+        margin-right: 25%;
+    }
+    #servicecard2{
+        margin-top: 5%;
+        margin-left: 35%;
+        margin-right: 25%;
+    }
+    #imagecontainerservice{
+        margin-bottom: 5%;
+        margin-top: 6%;
+        background-position: center;
+    }
+    #imagecontainerservice h1{
+        font-size: 5vw;
+    }
+    .services h3{
+        font-size: 3vw;
+    }
+    .services p {
+        font-size: 2vw;
+    }
+    #nameform{
+        width: 70.8vw;
+    }
+    #emailform{
+        width: 70.8vw;
+    }
+    #errormessage{
+        width: 70.5vw;
+    }
+    #successmessage{
+        width: 70.5vw;
+    }
+    #loadingmessage{
+        width: 70.5vw;
+    }
+    #errormessage h4{
+        font-size: 3vw;
+    }
+    #successmessage h4{
+        font-size: 3vw;
+    }
+    #loadingmessage h4{
+        font-size: 3vw;
+    }
+    #handicon{
+        margin-top: 60%;
+        margin-left: 90%;
+        font-size: 5vw;
+    }
+}
+@media only screen and (max-width: 500px){
+    #ayush{
+        font-size: 7vw;
+    }
+    .header_area{
+        transition: 0.6s;
+        padding-right: 5%;
+    }
+    #navLink{
+        padding: 0px 10px 0px 10px;
+        margin-right: 1%;
+        border-radius: 10px;
+        text-transform: uppercase;
+        font-size: 4vw;
+    }
+    #hey{
+        padding-top: 35%;
+        font-size: 10vw;
+    }
+    #iamayush{
+        font-weight: 600;
+        font-size: 12vw;
+    }
+    #typewriter{
+        font-size: 7vw;
+    }
+    #primarybutton{
+        font-size: 3vw;
+    }
+    #secondarybutton{
+        font-size: 3vw;
+    }
+    #imageinabout{
+        display: none;
+    }
+    #image1{
+        display: none;
+    }
+    #image2{
+        margin-top: 10%;
+    }
+    #letmeintroducemyself{
+        margin-top: 23%;
+        font-size: 8vw;
+        text-decoration: underline;
+        letter-spacing: 0.4vw;
+    }
+    #imagecontainerportfolio{
+        margin-top: 30%;
+    }
+    #intro{
+        font-size: 5vw;
+        letter-spacing: 0.1vw;
+    }
+    #scrollbelow{
+        display: none;
+    }
+    .single-team{
+        width: 140%;
+        height: 115%;
+    }
+    .team-text h2{
+        font-size: 5vw;
+    }
+    .team-text p{
+        font-size: 3vw;
+    }
+    .team-text{
+        width: 100%;
+    }
+    #visitsite{
+        font-size: 6vw;
+    }
+    #visitgithub{
+        font-size: 6vw;
+    }
+    #portfolioimages{
+        margin-bottom: 3%;
+        margin-top: 7%;
+    }
+    .services{
+        padding-left: 0%;
+    }
+    #servicecard1{
+        margin-top: 5%;
+        margin-left: 28%;
+        margin-right: 20%;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    #servicecard2{
+        margin-top: 5%;
+        margin-left: 28%;
+        margin-right: 20%;
+    }
+    #imagecontainerservice{
+        margin-bottom: 10%;
+        margin-top: 6%;
+        background-position: center;
+    }
+    #imagecontainerservice h1{
+        font-size: 6vw;
+    }
+    .services h3{
+        font-size: 5vw;
+    }
+    .services p {
+        font-size: 3vw;
+    }
+    /* form */
+    #formcontainer h1{
+        margin-bottom: 1%;
+        font-size: 6vw;
+    }
+    #formcontainer h3{
+        font-size: 6vw;
+        margin-left: 34%;
+    }
+    #formcontainer .text-center h3{
+        font-size: 6vw;
+        margin-left: 1.5%;
+    }
+    #formcontainer h5{
+        font-size: 4vw;
+        margin-left: 13.5%;
+    }
+    #form{
+        padding-left: 15.5%;
+    }
+    #formcontainer p{
+        font-size: 3vw;
+        margin-left: 18%;
+    }
+    #formborder{
+        border-right: none;
+    }
+    #nameform{
+        width: 70.8vw;
+        margin-right: 1vw;
+        margin-bottom: 2%;
+    }
+    #emailform{
+        width: 70.8vw;
+        margin-bottom: 2%;
+    }
+    #textarea{
+        width: 70.8vw;
+        height: 200px;
+    }
+    #formbutton{
+        font-size: 3vw;
+        margin-bottom: 3%;
+    }
+    #contacticon1{
+        width: 8vw;
+        margin-right: 5%;
+    }
+    #contacticon2{
+        width: 8vw;
+        margin-right: 5%;
+    }
+    #contacticon3{
+        width: 8vw;
+    }
+
+    #projects{
+        padding-bottom: 10%;
+    }
+    #imagecontainerportfolio h1{
+        font-size: 8vw;
+        padding-left: 32%;
+    }
+    #imagecontainerportfolio p{
+        font-size: 4vw;
+    }
+     #errormessage{
+        width: 70.5vw;
+        padding: 5px;
+        border-radius: 3px;
+    }
+    #successmessage{
+        width: 70.5vw;
+        padding: 5px;
+        border-radius: 3px;
+    }
+    #loadingmessage{
+        width: 70.5vw;
+        padding: 5px;
+        border-radius: 3px;
+    }
+    #errormessage h4{
+        font-size: 3vw;
+        margin: 0;
+    }
+    #successmessage h4{
+        font-size: 3vw;
+        margin: 0;
+    }
+    #loadingmessage h4{
+        font-size: 3vw;
+        margin: 0;
+    }
+    #handicon{
+        margin-top: 160%;
+        margin-left: 90%;
+        font-size: 5vw;
+        display: none
+    }
+}
