@@ -288,7 +288,7 @@
         font-size: 12vw;
     }
     #typewriter{
-        font-size: 6.5vw;
+        font-size: 6vw;
     }
     #primarybutton{
         font-size: 3vw;
@@ -318,10 +318,6 @@
         /* margin-left: 0%; */
         text-align: center;
     }
-    #portfoliocontainer{
-        padding-left: 0px;
-        padding-right: 0px;
-    }
     #intro{
         font-size: 5vw;
         letter-spacing: 0.1vw;
@@ -331,7 +327,7 @@
     }
     .single-team{
         width: 100%;
-        height: 140%;
+        height: 110%;
     }
     .team-text h2{
         font-size: 5vw;
@@ -349,7 +345,7 @@
         font-size: 6vw;
     }
     #portfolioimages{
-        margin-bottom: 20%;
+        margin-bottom: 10%;
     }
     .services{
         padding-left: 0%;
@@ -396,7 +392,7 @@
         margin-left: 1.4%;
     }
     #formcontainer h5{
-        font-size: 6vw;
+        font-size: 5vw;
         margin-left: 13.5%;
     }
     #form{
