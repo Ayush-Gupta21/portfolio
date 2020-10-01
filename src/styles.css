@@ -121,7 +121,7 @@ body{
     margin-bottom: 5%;
 }
 #typewriter{
-    font-size: 3.6vw;
+    font-size: 3.2vw;
 }
 /* #navbarcontainer{
     width: 1300px;
@@ -134,13 +134,14 @@ body{
 }
 
 #letmeintroducemyself{
-    font-size: 3vw;
+    font-size: 3.7vw;
     /* text-decoration: underline; */
     letter-spacing: 0.4vw;
 }
 #intro{
-    font-size: 1.6vw;
+    font-size: 1.5vw;
     letter-spacing: 0.1vw;
+    text-align: justify;
 }
 #primarybutton {
     background: linear-gradient(90deg, #4458dc 0%, #854fee 100%);
